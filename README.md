@@ -7,7 +7,8 @@ The project was performed using Microsoft Fabric for EDA, model train and foreca
 
 
 ## Dataset
-This dataset includes retail data for several stores across Turkey. Time period between 2017- 2019
+This dataset includes retail data for several stores across Turkey. Time period between 2017- 2019.
+
 The 'sales.csv' file should be downloaded from the following kaggle link.
 
 [Dataset link](https://www.kaggle.com/datasets/berkayalan/retail-sales-data)
