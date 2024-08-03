@@ -32,7 +32,7 @@ For this project some assumptions were made:
 
 - Data understanding 
 - Data profiling and EDA.
--  Data Preparation
+- Data Preparation
 - Modeling
 - AutoArima
 - Evaluation
@@ -43,7 +43,7 @@ tools used: Power Bi, Python (pandas), Microsoft Fabric
 ## In this repository
 
 - Dashboard for data profiling
-- Scripts
+- Scripts (EDA, ETL, Data preparation, Modelling, Forecast)
 - Final Bi solution dashboard
 - html files
 - tables (raw and processed data)
