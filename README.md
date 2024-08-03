@@ -8,6 +8,7 @@ The project was performed using Microsoft Fabric for EDA, model train and foreca
 
 ## Dataset
 This dataset includes retail data for several stores across Turkey. Time period between 2017- 2019
+The 'sales.csv' file should be downloaded from the following kaggle link.
 
 [Dataset link](https://www.kaggle.com/datasets/berkayalan/retail-sales-data)
 
@@ -49,6 +50,7 @@ tools used: Power Bi, Python (pandas), Microsoft Fabric
 - Final Bi solution dashboard
 - html files
 - tables (raw and processed data)
+- Models evaluation - pdf file
 
 
 ## Evaluation
