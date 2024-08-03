@@ -3,6 +3,8 @@ Time Series forecast using AutoArima
 
 This project focuses on leveraging data science techniques to forecast products sales for different stores in Konya, Turkey.
 
+The project was performed using Microsoft Fabric for EDA, model train and forecast and PowerBi for dashboard creation for the Bi solution.
+
 
 ## Dataset
 This dataset includes retail data for several stores across Turkey. Time period between 2017- 2019
